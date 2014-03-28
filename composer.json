@@ -1,0 +1,13 @@
+{
+	"name": "TinyButStrong",
+	"authors": [
+		{
+			"name": "TinyButStrong"
+		}
+	],
+	"require": {
+	},
+	
+	"require-dev": {
+	}
+}
