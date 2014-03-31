@@ -6,8 +6,14 @@
 		}
 	],
 	"require": {
+		"php" : ">=5.0.0"
 	},
+	"require": {},
 	
-	"require-dev": {
-	}
+		
+	"autoload": {
+        "classmap": [
+            "tbs_class.php"
+        ]
+    }
 }
