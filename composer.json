@@ -1,5 +1,6 @@
 {
 	"name": "tinybutstrong/tinybutstrong",
+	"version": "3.9.0",
 	"authors": [
 		{
 			"name": "tbs"
@@ -8,12 +9,13 @@
 	"require": {
 		"php" : ">=5.0.0"
 	},
-	"require": {},
-	
-		
+	"dist": {
+		"url": "http://www.tinybutstrong.com/dl.php?f=tbs_us.zip&s=2",
+		"type": "zip"
+	},
 	"autoload": {
-        "classmap": [
-            "tbs_class.php"
-        ]
-    }
+		"classmap": [
+			"tbs_class.php"
+            	]
+	}
 }
